@@ -14,7 +14,7 @@ An AI-powered chatbot that helps farmers make informed decisions about crop sele
 
 - **Backend**: Local server setup with LLM integration
 - **LLM Model**: llama-3.2-1b-instruct
-- **Server URL**: http://192.168.215.138:1234
+- **Server URL**: *you llm link from lm studio*
 - **Data Source**: Kaggle datasets
 - **Visualization**: Matplotlib and Seaborn for graph generation
 
@@ -73,14 +73,6 @@ AgricultureDataFresher/
 - seaborn
 - requests
 - urllib3
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
